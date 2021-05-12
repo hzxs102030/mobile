@@ -16,7 +16,7 @@
     "jquery": "^3.4.1",
     "mint-ui": "^2.2.13",
     "mysql": "^2.18.1",
-    "swiper": "^5.3.8",
+    "swiper": "^6.5.1",
     "vue": "^2.6.11",
     "vue-awesome-swiper": "^4.1.1",
     "vue-resource": "^1.5.1",
